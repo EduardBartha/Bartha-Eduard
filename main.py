@@ -1,2 +1,6 @@
-print("Hello world") 
+
+def main()
+print("Hello world")
+return 0
+
 
